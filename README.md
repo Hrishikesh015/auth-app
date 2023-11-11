@@ -1,20 +1,30 @@
 # Blockchain based authorization app using react and solidity
 
 ### Step 1: Clone the repo
-```git clone https://github.com/Hrishikesh015/auth-app.git```
+```
+git clone https://github.com/Hrishikesh015/auth-app.git
+```
 ### Step 2: Move to the app directory
-```cd auth-app```
+```
+cd auth-app
+```
 ### Step 3: Install necessary dependencies
-```npm i```
+```
+npm i
+```
 ### Step 4: Move to src folder to build the smart contract
 ```
 cd src
 truffle build
 ```
 ### Step 5: Migrate the contract to get the contract address
-```truffle migrate --reset```
+```
+truffle migrate --reset
+```
 ### Step 6: Run the react app
-```npm start```
+```
+npm start
+```
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
