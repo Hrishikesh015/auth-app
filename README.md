@@ -1,7 +1,7 @@
 # Blockchain based authorization app using react and solidity
 
 ### Step 1: Clone the repo
-`git clone https://github.com/Hrishikesh015/auth-app.git`
+~~~git clone https://github.com/Hrishikesh015/auth-app.git~~~
 ### Step 2: Move to the app directory
 `cd auth-app`
 ### Step 3: Install necessary dependencies
